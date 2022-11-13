@@ -61,3 +61,7 @@ C:\Users\user\Documents\Visual Studio 2012\Projects\Employee\obj\Debug\Employee.
 C:\Users\user\Documents\Visual Studio 2012\Projects\Employee\obj\Debug\Employee.exe.manifest
 C:\Users\user\Documents\Visual Studio 2012\Projects\Employee\obj\Debug\Employee.application
 C:\Users\user\Documents\Visual Studio 2012\Projects\Employee\obj\Debug\Employee.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Git Tests\Employee\bin\Debug\Employee.exe.config
+C:\Users\user\Documents\Git Tests\Employee\obj\Debug\Employee.csproj.ResolveComReference.cache
+C:\Users\user\Documents\Git Tests\Employee\obj\Debug\Employee.exe
+C:\Users\user\Documents\Git Tests\Employee\obj\Debug\Employee.pdb

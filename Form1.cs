@@ -466,6 +466,9 @@ namespace Employee
 
 		private void Form1_Load(object sender, System.EventArgs e)
 		{
+
+            // added this comment line to see what happens with Git
+
 			Form2 frm = new Form2();
 			frm.ShowDialog();
 			if (!frm.OK)
